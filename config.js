@@ -1,28 +1,23 @@
 /*
-   ██████╗ ██╗   ██╗███████╗███████╗███╗   ██╗      ███╗   ███╗██████╗ 
-  ██╔═══██╗██║   ██║██╔════╝██╔════╝████╗  ██║      ████╗ ████║██╔══██╗
-  ██║   ██║██║   ██║█████╗  █████╗  ██╔██╗ ██║█████╗██╔████╔██║██║  ██║
-  ██║▄▄ ██║██║   ██║██╔══╝  ██╔══╝  ██║╚██╗██║╚════╝██║╚██╔╝██║██║  ██║   
-  ╚██████╔╝╚██████╔╝███████╗███████╗██║ ╚████║      ██║ ╚═╝ ██║██████╔╝   
-   ╚══▀▀═╝  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═══╝      ╚═╝     ╚═╝╚═════╝   
+      
   
 ══════════════════════════════════════════════════════════════════════════
                             ( OWNER  DETAILS )
 ══════════════════════════════════════════════════════════════════════════
-✅ Queen Multi-device Whatsapp Bot
-✅ Coded By DarkWinzo 
+✅ King Multi-device Whatsapp Bot
+✅ Coded By Cybertron Godzzz
 ══════════════════════════════════════════════════════════════════════════
                               ( CONTACT ME )
 ══════════════════════════════════════════════════════════════════════════
-✅ Telegram: https://t.me/DarkWinzo
+✅ Telegram: https://t.me/GodZzz Yt
 ✅ Whatsapp: https://wa.link/jw9ki6
-✅ Instagram:https://msng.link/o/?darkwinzo=ig
-✅ Youtube: https://youtube.com/c/DarkWinzo                                                                                                      
+✅ Instagram:https://msng.link/o/?cybertron_god_zzz
+✅ Youtube: https://youtube                                                                                           
 ══════════════════════════════════════════════════════════════════════════
                              ( PROJECT DETAILS )
 ══════════════════════════════════════════════════════════════════════════
-✅ @project_name Queen-MD [WA Multi-device]
-✅ @author DarkWinzo <https://github.com/DarkWinzo>
+✅ @project_name King-MD [WA Multi-device]
+✅ @author CybertronGodzzz <https://github.com/cybertrongodzzz>
 ✅ @description A WhatsApp based 3ʳᵈ party application that provide many 
    services with a real-time automated conversational experience
 ✅ @link <https://github.com/DarkWinzo/Queen-MD>
